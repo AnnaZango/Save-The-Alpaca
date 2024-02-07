@@ -8,5 +8,8 @@ https://sharemygame.com/@AnnaZ/save-the-alpaca
 ## Description
 Mrs. Alpaca is fed up with living in a farm! You must help her escape across a field full of evil farmers which will try to knock her down with tranquilizers. Try and eliminate as many farmers as you can by spitting at them, while receiving spit provisions and health from your animal buddies.
 
+## How to play
+Use WASD keys to move, and spacebar to shoot saliva bullets.
+
 ## Development
 This game was developed with Unity and C# during the participation in the course Complete C# Unity Game Developer 2D, given by GameDev.tv Team on Udemy. All assets, except music and sound effects, were developed by me. Music and sound effects were taken from OpenGameArt. Fonts were downloaded from DaFont.
